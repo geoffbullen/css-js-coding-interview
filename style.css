@@ -1,0 +1,21 @@
+.square {
+  background-color: yellow;
+  height: 8em;
+  width: 8em;
+}
+
+header {
+  background-color: hotpink;
+}
+main {
+  background: green;
+  height: 120vh;
+  display: grid;
+  place-items: center;
+  justify-content: center;
+}
+
+footer {
+  background-color: hotpink;
+  height: 10em;
+}
